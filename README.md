@@ -1,6 +1,6 @@
 ## Oii, eu me chamo Thamires Antunes
-### Estou cursando Análise e Desenvolvimento de Sistemas - IFPB 💻 <br>Sejam bem-vindos ao meu perfil !!
-
+### Estou cursando Análise e Desenvolvimento de Sistemas - IFPB 💻 
+### Sejam bem-vindos ao meu perfil  <img width='30' height='30' align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 ### Linguagens:
 <div style="displey: inline">
